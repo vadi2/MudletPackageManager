@@ -2,7 +2,7 @@
   {
     "name": "one-click-install-demo",
     "version": "1",
-    "url": "http://keneanung.gitlab.io/MudletPackageManager/MudletPackageManager.xml",
+    "url": "https://raw.githubusercontent.com/vadi2/MudletPackageManager/demo-package/one-click-install-demo.mpackage",
     "description": "A demo you can use to check out the package manager with",
     "author": "Vadim Peretokin",
     "extension": "mpackage"
