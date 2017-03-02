@@ -1,10 +1,10 @@
 [
   {
-    "name": "MudletPackageManager",
-    "version": "0.0.2",
+    "name": "one-click-install-demo",
+    "version": "1",
     "url": "http://keneanung.gitlab.io/MudletPackageManager/MudletPackageManager.xml",
-    "description": "The Mudlet Package Manager",
-    "author": "Keneanung",
-    "extension": "xml"
+    "description": "A demo you can use to check out the package manager with",
+    "author": "Vadim Peretokin",
+    "extension": "mpackage"
   }
 ]
